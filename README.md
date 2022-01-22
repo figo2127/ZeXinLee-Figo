@@ -1,7 +1,7 @@
 ## Hi there! I'm Figo 👨‍🎓
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figo2127&count_private=true&hide=stars,contribs&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🏛️ I'm a Penultimate (Third) year Computer Science & Statistics undergraduate @ National University of Singapore
+#### 📫 You can reach me via Outlook mail: zexin_lee@u.nus.edu
 
 ### Programming Languages:
 <p align="left">
@@ -24,3 +24,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figo2127&count_private=true&hide=stars,contribs&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
