@@ -26,4 +26,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figo2127&count_private=true&hide=stars,contribs&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figo2127&count_private=true&hide=stars,contribs&show_icons=true&theme=github_dark&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
