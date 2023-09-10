@@ -1,7 +1,7 @@
 ## Hi there! I'm Figo 👨‍🎓
 
 #### 🏛️ I'm a Senior Computer Science & Statistics undergraduate @ National University of Singapore
-#### 👨‍💼 Find out more at my [LinkedIn page](https://www.linkedin.com/in/ze-xin-figo-lee-010206192/)
+#### 👨‍💼 Find out more at my [LinkedIn page](https://www.linkedin.com/in/figo-ze-xin-lee-010206192/)
 #### 📫 You can reach me via Outlook [mail](https://zexin_lee@u.nus.edu)
 
 ### Programming Languages:
